@@ -1,6 +1,6 @@
-#  Text Summarizer using HuggingFace T5 & FastAPI
+#  Chat Summarizer using HuggingFace T5 & FastAPI
 
-An end-to-end, transformer-based text summarization web application built with **FastAPI**, **HuggingFace Transformers (T5)**, and a **modern Glassmorphism UI**.
+An end-to-end, transformer-based chat summarization web application built with **FastAPI**, **HuggingFace Transformers (T5)**, and a **modern Glassmorphism UI**.
 
 ---
 
@@ -47,8 +47,8 @@ TextSummarizer/
 
 ```bash
 git lfs install
-git clone https://github.com/Madhura-Kedar/Text-Summarizer.git
-cd Text-Summarizer
+git clone https://github.com/Madhura-Kedar/chat-summarizer-t5-fastapi.git
+cd chat-summarizer-t5-fastapi
 git lfs pull
 ```
 

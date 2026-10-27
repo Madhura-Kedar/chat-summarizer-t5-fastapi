@@ -8,8 +8,8 @@ from pydantic import BaseModel
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 
 app = FastAPI(
-    title="Text Summarizer App",
-    description="Text Summarization using T5",
+    title="Chat Summarizer App",
+    description="Chat Summarization using T5",
     version="1.0",
 )
 
